@@ -40,3 +40,13 @@ Analyze customer preferences, budget behavior and usage needs to generate more p
 
 **Intelligent Upselling & Upgrade Suggestions**:  
 Suggests better alternatives and future upgrade paths to help users improve performance while staying within budget.
+
+
+## Build With
+
+| Category | Technology | Version |
+| :--- | :---: | ---: |
+| Environment | Python | 3.10+ |
+| LLM Framework | Google Gemini API | 3.5 Flash |
+| UI Framework | Gardio | Latest |
+| Data Processing | Pandas | 2.1 |
