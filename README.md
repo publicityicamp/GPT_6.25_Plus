@@ -42,12 +42,12 @@ Analyze customer preferences, budget behavior and usage needs to generate more p
 Suggests better alternatives and future upgrade paths to help users improve performance while staying within budget.
 
 
-
+  
 ## Build With
 
 | Category | Technology | Version |
 | :--- | :---: | ---: |
-| Environment | Python | 3.10+ |
+| Environment | Python | 3.12.13 |
 | LLM Framework | Google Gemini API | 3.5 Flash |
 | UI Framework | Gardio | Latest |
-| Data Processing | Pandas | 2.1 |
+| Data Processing | Pandas | 2.2.2 |
