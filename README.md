@@ -15,7 +15,7 @@ AutoQuote_AI/
     └── addon_catalog.csv
 ```
 
-<br>
+---
 ## Highlights / Main Features
 **Natural Requirements Extraction**:  
 Understand customer requests written in normal language by extracting important details such as budget, delivery location, and intended use automatically.
@@ -41,7 +41,7 @@ Analyze customer preferences, budget behavior and usage needs to generate more p
 **Intelligent Upselling & Upgrade Suggestions**:  
 Suggests better alternatives and future upgrade paths to help users improve performance while staying within budget.
 
-<br>
+---
 ## Build With
 
 | Category | Technology | Version |
