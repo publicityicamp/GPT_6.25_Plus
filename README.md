@@ -5,7 +5,7 @@ An AI system that helps customers build a complete and compatible setup based on
 ## Project Structure
 ```
 AutoQuote_AI/
-├── notebook.ipynb                 # Full implementation and model training notebook
+├── GPT_6_25_Plus.ipynb            # Full implementation and model training notebook
 ├── requirements.txt               # Dependencies
 ├── README.md                      # This file
 └── data/ (live from Google Sheets)
