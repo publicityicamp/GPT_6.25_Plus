@@ -30,13 +30,13 @@ Check whether all selected components can work together properly by validating C
 Generate multiple optimized builds instead of only one recommendation. It supports Max Performance, Optimal Value, and Budget Saver strategies based on user needs.
 
 **Performance Indexing Function**:  
-Calculate a unified performance score using CPU, GPU, RAM, VRAM and power usage data by using Statistics for AI to generate balanced and efficient system builds.
+Utilise statistical scoring methods on CPU, GPU, RAM, VRAM, and power usage data to calculate a unified performance score and generate balanced, efficient and budget-optimized system builds.
 
-**Bottleneck Mitigation Heuristics**:  
+**Aggregation Heuristics**:  
 Detect hardware mismatches that can reduce performance and penalize unbalanced combinations such as a powerful GPU paired with a weak CPU.
 
-**Interactive Recommendation Layer**:  
-Present recommendations in a clear and user-friendly format for users to compare setups, view compatibility checks and understand quotation breakdowns easily.
+**Behavioral Recommendation Layer**:  
+Analyze customer preferences, budget behavior and usage needs to generate more personalized recommendations. It can also suggest suitable upgrades, alternative builds and next-best-buy options based on user behavior and priorities.
 
 **Intelligent Upselling & Upgrade Suggestions**:  
 Suggests better alternatives and future upgrade paths to help users improve performance while staying within budget.
