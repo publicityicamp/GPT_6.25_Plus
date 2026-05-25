@@ -14,7 +14,7 @@ AutoQuote_AI/
     ├── next_buy_history.csv
     └── addon_catalog.csv
 ```
-```
+
 
 ## Highlights / Main Features
 **Natural Requirements Extraction**
