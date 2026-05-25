@@ -1,5 +1,5 @@
 # Autonomous Sales Engineer by GPT 6.25 Plus
-APU Marathon 2026 "LLM Everywhere" - Preliminary Round Submission
+**APU Marathon 2026 "LLM Everywhere" - Preliminary Round Submission** 
 An AI system that helps customers build a complete and compatible setup based on their needs, budget and delivery location. Instead of recommending only one product, the system acts like a real technical sales engineer. It understands customer requests, selects suitable components, checks compatibility, optimizes performance and cost, and generates a full quotation automatically in Gardio Dashboard.
 
 ## Project Structure
