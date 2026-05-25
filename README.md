@@ -17,26 +17,26 @@ AutoQuote_AI/
 
 
 ## Highlights / Main Features
-**Natural Requirements Extraction**: 
+**Natural Requirements Extraction**:  
 Understand customer requests written in normal language by extracting important details such as budget, delivery location, and intended use automatically.
 
-**Multi-Agent AI Architecture**:
+**Multi-Agent AI Architecture**:  
 Use multiple AI agents that work together like a real sales team where ach agent handles a specific task such as product matching, optimization or compatibility checking.
 
-**Deterministic Compatibility Layer**:
+**Deterministic Compatibility Layer**:  
 Check whether all selected components can work together properly by validating CPU sockets, RAM generation, PSU power requirements and other hardware constraints.
 
-**Pareto-Optimal Optimization Engine**:
+**Pareto-Optimal Optimization Engine**:  
 Generate multiple optimized builds instead of only one recommendation. It supports Max Performance, Optimal Value, and Budget Saver strategies based on user needs.
 
-**Performance Indexing Function**:
+**Performance Indexing Function**:  
 Calculate a unified performance score using CPU, GPU, RAM, VRAM and power usage data by using Statistics for AI to generate balanced and efficient system builds.
 
-**Bottleneck Mitigation Heuristics**:
+**Bottleneck Mitigation Heuristics**:  
 Detect hardware mismatches that can reduce performance and penalize unbalanced combinations such as a powerful GPU paired with a weak CPU.
 
-**Interactive Recommendation Layer**:
+**Interactive Recommendation Layer**:  
 Present recommendations in a clear and user-friendly format for users to compare setups, view compatibility checks and understand quotation breakdowns easily.
 
-**Intelligent Upselling & Upgrade Suggestions**:
+**Intelligent Upselling & Upgrade Suggestions**:  
 Suggests better alternatives and future upgrade paths to help users improve performance while staying within budget.
