@@ -1,1 +1,8 @@
+# --- Core AI Integration ---
+google-genai>=1.68.0
 
+# --- Presentation Layer & Web Interface ---
+gradio>=5.5.0
+
+# --- Data Engineering & Processing ---
+pandas>=2.2.0
