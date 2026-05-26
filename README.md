@@ -4,15 +4,25 @@ An AI system that helps customers build a complete and compatible setup based on
 
 ## Project Structure
 ```
-AutoQuote_AI/
-├── GPT_6_25_Plus.ipynb            # Full implementation and model training notebook
-├── requirements.txt               # Dependencies
-├── README.md                      # This file
-└── data/ (live from Google Sheets)
-    ├── product_catalog.csv
-    ├── delivery_locations.csv
-    ├── next_buy_history.csv
-    └── addon_catalog.csv
+Autonomous-sales-engineer/
+├── GPT_6_25_Plus.ipynb          # Full implementation and and Gardio dashboard launcher
+├── agents/
+│   ├── requirement_agent.py     
+│   ├── search_agent.py
+│   ├── compatibility_agent.py   
+│   ├── optimization_agent.py    
+│   ├── next_best_buy_and_value_upsell_agent.py
+│   ├── commercial_quotation_agent.py
+│   └── explaination_agent.py            
+│
+├── data/ (live from Google Sheets)
+│   └── PRODUCT_CATALOG.csv      
+│   ├── DELIVERY_LOCATIONS.csv
+│   ├── NEXT_BUY_HISTORY.csv
+│   └── ADDON_CATALOG.csv
+├── utils/                    # Shared helper functions, calculations and compatibility rules
+├── requirements.txt          # List of required Python libraries and dependencies
+└── README.md                 # Project documentation and setup guide
 ```
 
 ---
@@ -50,3 +60,4 @@ Suggests better alternatives and future upgrade paths to help users improve perf
 | LLM Framework | Google Gemini API | 3.5 Flash |
 | UI Framework | Gardio | Latest |
 | Data Processing | Pandas | 2.2.2 |
+
