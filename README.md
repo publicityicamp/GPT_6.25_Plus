@@ -98,7 +98,7 @@ jupyter notebook GPT_6_25_Plus.ipynb
 ```
 &nbsp;
 ### Usage Example
-User Input
+#### User Input
 > What do you want this PC setup to do? :  
 > I want a smooth AAA gaming PC for 1440p gameplay. Deliver to Petaling Jaya.  
 > 
@@ -108,7 +108,7 @@ User Input
 > Strategy Focus:  
 > Optimal Value
 
-System Response (30 seconds generating time)
+#### System Response (30 seconds generating time)
 > **Part 1: Quotation**
 >     
 >  OFFICIAL COMMERCIAL QUOTATION  
