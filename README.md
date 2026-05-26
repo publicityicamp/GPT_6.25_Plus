@@ -109,7 +109,8 @@ User Input
 > Optimal Value
 
 System Response (30 seconds generating time)
-> **Part 1: Quotation**  
+> **Part 1: Quotation**
+>     
 >           OFFICIAL COMMERCIAL QUOTATION  
 > CLIENT LOCATION: Petaling Jaya  
 > ORDER DATE STAMP: 2026-05-26 03:01:20  
@@ -129,15 +130,13 @@ System Response (30 seconds generating time)
 >  [Cases       ] Budget mATX Case                 RM   120  
 >  [Coolers     ] Stock Cooler                     RM     0  
 >   
-> ------------------------------------------------------------  
 > SUBTOTAL BASE PACKAGE COST:                     RM   2,430  
 > Shipping Logistic Fee (to Petaling Jaya)        RM       0  
- ------------------------------------------------------------  
-> TOTAL COMMERCIAL BILL COST:                     RM   2,430  
- ============================================================  
+>  
+> TOTAL COMMERCIAL BILL COST:                     RM   2,430   
 > 
-> ** Part 2: Your Recommended Build**  
-> ** Part 3: Carefully Picked Extras**  
-> ** Part 4: Strategy Comparison**  
-> ** Part 5: Trust & Verification**  
+> **Part 2: Your Recommended Build**  
+> **Part 3: Carefully Picked Extras**  
+> **Part 4: Strategy Comparison**  
+> **Part 5: Trust & Verification**  
 > Run our dashboard to know more about Part 2 to Part 5.  
