@@ -82,12 +82,13 @@ Suggests better alternatives and future upgrade paths to help users improve perf
 > 1. Open in Google Colab: 
 > Click the link below to load the interactive notebook:  
 (https://colab.research.google.com/drive/1cuiSnphHkgvd-ymwei7dHHOOVzATHcIj?usp=sharing)
-> 2. Configuration Secure API Access
->   i) Click Secrets in left sidebar  
->  ii) Add secret: `GEMINI_API_KEY`  
-> iii) Insert your GEMINI API Key  
->  iv) Toggle "Notebook access" to ON   
-> 3. Execute the Pipeline:  
+> 2. Configuration Secure API Access  
+> Before executing the code, you must securely link your Gemini API key:  
+>   i) Click Secrets 🔑 icon tabin left sidebar   
+>  ii) Add secret with secret name: `GEMINI_API_KEY`  
+> iii) Paste your actual personal Gemini API Key into the value field  
+>  iv) Toggle "Notebook access" switch to ON   
+> 4. Execute the Pipeline:  
 > Run the multi-agent system by triggering the execution cells:  
 > Go to the top menu bar and select Runtime → Run all  
 > 5. Launch the dashboard:  
