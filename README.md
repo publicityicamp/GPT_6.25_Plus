@@ -65,7 +65,8 @@ Suggests better alternatives and future upgrade paths to help users improve perf
 ## Getting Started
 ### Prerequisites
 - Python 3.10+ installed on your system or Google Collab
-- Google Gemini API Key obtained from Google AI Studio  
+- Google Gemini API Key obtained from Google AI Studio
+&nbsp;
 ### Installation and Run The Project
 **Option A: Google Colab (Recommended due to Zero Setup)**
 > 1. Open in Google Colab:  
@@ -94,5 +95,7 @@ set GEMINI_API_KEY="your-api-key-here"     # Windows
 jupyter notebook GPT_6_25_Plus.ipynb  
 # Run all cells in the notebook  
 ```
+&nbsp;
+### Usage Example
 
 
