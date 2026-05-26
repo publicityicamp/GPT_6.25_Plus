@@ -68,7 +68,6 @@ Suggests better alternatives and future upgrade paths to help users improve perf
 - Google Gemini API Key obtained from Google AI Studio  
 ### Installation and Run The Project
 **Option A: Google Colab (Recommended due to Zero Setup)**
-```bash
 # Open in Colab:
 (https://colab.research.google.com/drive/1cuiSnphHkgvd-ymwei7dHHOOVzATHcIj?usp=sharing)
 # Configuration
