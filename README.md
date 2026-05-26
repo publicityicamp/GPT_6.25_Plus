@@ -107,23 +107,23 @@ User Input
 > 
 > Strategy Focus:  
 > Optimal Value
-  
+
 System Response (30 seconds generating time)
 > Part 1: Quotation
-> ============================================================
->                     OFFICIAL COMMERCIAL QUOTATION
-> ============================================================
-> 
+ ============================================================
+>                    OFFICIAL COMMERCIAL QUOTATION
+ ============================================================
+ 
 > CLIENT LOCATION: Petaling Jaya
 > ORDER DATE STAMP: 2026-05-26 03:01:20
-> 
+>
 > LOGISTICS NETWORK BREAKDOWN:
-> ------------------------------------------------------------
+ ------------------------------------------------------------
 > ✓ Delivery Verified to Petaling Jaya
 > Estimated Delivery Transit window: 3 business days
 > 
 > SPECIFIED PROCUREMENT ITEMIZATION:
-> ------------------------------------------------------------
+ ------------------------------------------------------------
 >  [CPUs        ] Ryzen 5 5600X                    RM   800
 >  [GPUs        ] GTX 1650                         RM   550
 >  [Motherboards] B450M Motherboard                RM   350
@@ -136,9 +136,9 @@ System Response (30 seconds generating time)
 > ------------------------------------------------------------
 > SUBTOTAL BASE PACKAGE COST:                     RM   2,430
 > Shipping Logistic Fee (to Petaling Jaya)               RM       0
-> ------------------------------------------------------------
+ ------------------------------------------------------------
 > TOTAL COMMERCIAL BILL COST:                     RM   2,430
-> ============================================================
+ ============================================================
 > 
 > ** Part 2: Your Recommended Build**  
 > ** Part 3: Carefully Picked Extras**  
