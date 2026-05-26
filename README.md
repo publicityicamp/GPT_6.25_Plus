@@ -70,11 +70,11 @@ Suggests better alternatives and future upgrade paths to help users improve perf
 **Option A: Google Colab (Recommended due to Zero Setup)**
 > 1. Open in Google Colab:  
 (https://colab.research.google.com/drive/1cuiSnphHkgvd-ymwei7dHHOOVzATHcIj?usp=sharing)
-> 2. Configuration
->   i) Click Secrets in left sidebar
->  ii) Add secret: `GEMINI_API_KEY`
-> iii) Insert your GEMINI API Key
->  iv) Toggle "Notebook access" to ON  
+> 2. Configuration  
+>   i) Click Secrets in left sidebar  
+>  ii) Add secret: `GEMINI_API_KEY`  
+> iii) Insert your GEMINI API Key  
+>  iv) Toggle "Notebook access" to ON   
 > 3. Run all cells:  
 > Runtime → Run all  
 > 4. Access the dashboard:  
