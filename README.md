@@ -61,3 +61,16 @@ Suggests better alternatives and future upgrade paths to help users improve perf
 | UI Framework | Gardio | Latest |
 | Data Processing | Pandas | 2.2.2 |
 
+---
+## Getting Started
+**Prerequisites**
+- Python 3.10+ installed on your system or Google Collab
+- Google Gemini API Key obtained from Google AI Studio  
+**Installation**
+**1. Clone Repository**
+`git clone <https://github.com/publicityicamp/GPT_6.25_Plus>
+cd autonomous-sales-engineer`  
+**2. Install Dependencies**
+`pip install -r requirements.txt`
+**3. Configuration**
+The system securely instantiates its underlying LLM engine by identifying an operating system environment variable named GEMINI_API_KEY
