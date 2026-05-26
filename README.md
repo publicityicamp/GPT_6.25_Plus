@@ -74,7 +74,7 @@ Suggests better alternatives and future upgrade paths to help users improve perf
 ## Getting Started
 ### Prerequisites
 - Python 3.10+ installed on your system or Google Colab
-- Google Gemini API Key obtained from Google AI Studio
+- Google Gemini API Key (gemini-3.5-flash) obtained from Google AI Studio
   
 &nbsp;
 ### Installation and Run The Project
@@ -152,13 +152,13 @@ Extracts customer requirements such as budget, delivery location, target usage, 
 Searches the product catalog to identify suitable and compatible PC components based on user requirements.  
 **3. Compatibility Agent**    
 Validates hardware compatibility including CPU sockets, RAM generation, PSU requirements and system constraints.  
-**4. Optimization Agent** 
+**4. Optimization Agent**  
 Optimizes system builds using Max Performance, Optimal Value, and Budget Saver strategies with statistical performance scoring and Pareto optimization.  
-**5. Next Best Buy and Value Upsell Agent** 
+**5. Next Best Buy and Value Upsell Agent**  
 Suggests upgrade paths, better-value alternatives and intelligent upsell opportunities based on customer budget behavior and performance goals.  
-**6. Commercial Quotation Agent** 
+**6. Commercial Quotation Agent**  
 Generates complete quotations including total pricing, component breakdowns and delivery-related calculations.  
-**7. Explanation Agent** 
+**7. Explanation Agent**  
 Explains recommendation reasoning, optimization decisions compatibility checks and performance trade-offs in a user-friendly format.  
 
 ---
