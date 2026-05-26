@@ -78,7 +78,7 @@ Suggests better alternatives and future upgrade paths to help users improve perf
   
 &nbsp;
 ### Installation and Run The Project
-**Option A: Google Colab (Recommended due to Zero Setup)**
+**Google Colab**
 > 1. Open in Google Colab:  
 (https://colab.research.google.com/drive/1cuiSnphHkgvd-ymwei7dHHOOVzATHcIj?usp=sharing)
 > 2. Configuration  
@@ -91,20 +91,6 @@ Suggests better alternatives and future upgrade paths to help users improve perf
 > 4. Launch the dashboard:  
 > Scroll to the bottom of the execution logs and click the generated Gradio public share link (e.g., `https://xxxx.gradio.live`).
 
-**Option B: Local Machine**
-```bash
-# Clone repository  
-git clone (https://github.com/publicityicamp/GPT_6.25_Plus)  
-cd autonomous-sales-engineer  
-# Install dependencies
-pip install -r requirements.txt  
-# Set API key
-export GEMINI_API_KEY="your-api-key-here"  # Linux/Mac
-set GEMINI_API_KEY="your-api-key-here"     # Windows  
-# Launch Jupyter  
-jupyter notebook GPT_6_25_Plus.ipynb  
-# Run all cells in the notebook  
-```
 &nbsp;
 ### Usage Example
 #### User Input
