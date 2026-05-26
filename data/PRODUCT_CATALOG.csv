@@ -1,1 +1,31 @@
-
+category,name,type,socket,price,cores,threads,tdp,gaming_performance,vram,performance_tier,form_factor,features,capacity,speed,ram_type,wattage,efficiency,fans_included,tdp_rating,stock
+CPUs,Ryzen 5 5600X,CPU,AM4,800,6,12,65,75,,,,,,,,,,,,10
+CPUs,Ryzen 5 7600,CPU,AM5,1200,6,12,65,85,,,,,,,,,,,,30
+CPUs,Intel i5-13400,CPU,LGA1700,1100,10,16,65,82,,,,,,,,,,,,25
+CPUs,Ryzen 7 7800X3D,CPU,AM5,2200,8,16,120,98,,,,,,,,,,,,8
+GPUs,GTX 1650,GPU,,550,,,,60,4,low,,,,,,,,,,23
+GPUs,RTX 3060,GPU,,1200,,,,82,12,mid,,,,,,,,,,18
+GPUs,RTX 4060,GPU,,1600,,,,88,8,mid,,,,,,,,,,15
+GPUs,RTX 4070,GPU,,2500,,,,95,12,high,,,,,,,,,,11
+Motherboards,B450M Motherboard,Motherboard,AM4,350,,,,60,,,mATX,DDR4,,,,,,,,9
+Motherboards,B550M Motherboard,Motherboard,AM4,550,,,,70,,,mATX,"DDR4, PCIe 4.0",,,,,,,,16
+Motherboards,B650 Motherboard,Motherboard,AM5,700,,,,95,,,ATX,"DDR5, PCIe 5.0",,,,,,,,21
+Motherboards,B760 Motherboard,Motherboard,LGA1700,650,,,,80,,,ATX,DDR4/DDR5,,,,,,,,20
+RAM,16GB DDR4 RAM,RAM,,250,,,,60,,,,,16,3200,DDR4,,,,,25
+RAM,32GB DDR4 RAM,RAM,,450,,,,95,,,,,32,3200,DDR4,,,,,16
+RAM,16GB DDR5 RAM,RAM,,280,,,,75,,,,,16,5200,DDR5,,,,,18
+RAM,32GB DDR5 RAM,RAM,,450,,,,95,,,,,32,5200,DDR5,,,,,7
+Storage,512GB NVMe SSD,Storage,,180,,,,,,,M.2,,512,Gen3,,,,,,14
+Storage,1TB NVMe SSD,Storage,,280,,,,,,,M.2,,1,Gen4,,,,,,17
+Storage,1TB SATA SSD,Storage,,280,,,,,,,2.5,,1,SATA3,,,,,,19
+Storage,2TB NVMe SSD,Storage,,480,,,,,,,M.2,,2,Gen4,,,,,,20
+PSU,450W PSU,PSU,,180,,,,60,,,,,,,,450,80+ White,,,22
+PSU,550W PSU,PSU,,250,,,,70,,,,,,,,550,80+ Bronze,,,13
+PSU,650W PSU,PSU,,350,,,,85,,,,,,,,650,80+ Bronze,,,17
+PSU,750W PSU,PSU,,300,,,,90,,,,,,,,750,80+ Bronze,,,9
+Cases,Budget mATX Case,Case,,120,,,,,,,mATX,,,,,,,1,,10
+Cases,Mid Tower Case,Case,,250,,,,,,,ATX,,,,,,,2,,8
+Cases,Premium RGB Case,Case,,450,,,,,,,ATX,,,,,,,4,,18
+Coolers,Stock Cooler,Cooler,,0,,,,50,,,,,,,,,,,65,22
+Coolers,Air Cooler,Cooler,,120,,,,70,,,,,,,,,,,150,14
+Coolers,240mm AIO,Cooler,,350,,,,90,,,,,,,,,,,250,23
