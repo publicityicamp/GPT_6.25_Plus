@@ -135,8 +135,12 @@ System Response (30 seconds generating time)
 >  
 > TOTAL COMMERCIAL BILL COST:                     RM   2,430   
 > 
-> **Part 2: Your Recommended Build**  
-> **Part 3: Carefully Picked Extras**  
-> **Part 4: Strategy Comparison**  
-> **Part 5: Trust & Verification**  
+> **Part 2: Your Recommended Build**
+>   
+> **Part 3: Carefully Picked Extras**
+>   
+> **Part 4: Strategy Comparison**
+>   
+> **Part 5: Trust & Verification**
+>   
 > Run our dashboard to know more about Part 2 to Part 5.  
