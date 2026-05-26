@@ -17,7 +17,7 @@ Autonomous-sales-engineer-by-GPT 6.25 Plus/
 │   │   ├── Agent 2: Search Agent           
 │   │   ├── Agent 3: Compatibility Agent    
 │   │   ├── Agent 4: Optimizer Agent        
-│   │   ├── Agent 5: Next Best Buy and Upsell Agent 
+│   │   ├── Agent 5: Next Best Buy and Value Upsell Agent 
 │   │   ├── Agent 6: Quotation Agent       
 │   │   └── Agent 7: Explanation Agent     
 │   │ 
