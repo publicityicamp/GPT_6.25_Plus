@@ -88,8 +88,8 @@ Suggests better alternatives and future upgrade paths to help users improve perf
 >  iv) Toggle "Notebook access" to ON   
 > 3. Run all cells:  
 > Runtime → Run all  
-> 4. Access the dashboard:  
-> Click the Gradio public link (`https://xxxx.gradio.live`) after running  
+> 4. Launch the dashboard:  
+> Scroll to the bottom of the execution logs and click the generated Gradio public share link (e.g., `https://xxxx.gradio.live`).
 
 **Option B: Local Machine**
 ```bash
