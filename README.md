@@ -66,15 +66,33 @@ Suggests better alternatives and future upgrade paths to help users improve perf
 ### Prerequisites
 - Python 3.10+ installed on your system or Google Collab
 - Google Gemini API Key obtained from Google AI Studio  
-### Installation
-**1. Clone Repository**
+### Installation and Run The Project
+**Option A: Google Colab (Recommended due to Zero Setup)**
+# Open in Colab:
+(https://colab.research.google.com/drive/1cuiSnphHkgvd-ymwei7dHHOOVzATHcIj?usp=sharing)
+# Configuration
+- Click Secrets in left sidebar
+- Add secret: `GEMINI_API_KEY`
+- Insert your GEMINI API Key
+- Toggle "Notebook access" to ON  
+# Run all cells:  
+Runtime → Run all  
+# Access the dashboard:  
+Click the Gradio public link (`https://xxxx.gradio.live`) after running  
+  
+**Option B: Local Machine**
 ```bash
-git clone <https://github.com/publicityicamp/GPT_6.25_Plus>  
-cd autonomous-sales-engineer
-```  
-**2. Install Dependencies**
-```bash
-pip install -r requirements.txt
+# Clone repository  
+git clone (https://github.com/publicityicamp/GPT_6.25_Plus)  
+cd autonomous-sales-engineer  
+# Install dependencies
+pip install -r requirements.txt  
+# Set API key
+export GEMINI_API_KEY="your-api-key-here"  # Linux/Mac
+set GEMINI_API_KEY="your-api-key-here"     # Windows  
+# Launch Jupyter  
+jupyter notebook GPT_6_25_Plus.ipynb  
+# Run all cells in the notebook  
 ```
-**3. Configuration**
-The system securely instantiates its underlying LLM engine by identifying an operating system environment variable named GEMINI_API_KEY
+
+
