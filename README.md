@@ -9,8 +9,8 @@ Unlike traditional recommendation systems that only suggest products individuall
 
 ## Project Structure
 ```
-Autonomous-sales-engineer/
-├── GPT_6_25_Plus.ipynb                    # Full implementation and Gardio dashboard launcher
+Autonomous-sales-engineer-by-GPT 6.25 Plus/
+├── GPT_6_25_Plus.ipynb                               # Full implementation and Gardio dashboard launcher
 │   │
 │   ├── 7 Agent Classes
 │   │   ├── Agent 1: Requirement Agent      
@@ -20,22 +20,18 @@ Autonomous-sales-engineer/
 │   │   ├── Agent 5: Next Best Buy and Upsell Agent 
 │   │   ├── Agent 6: Quotation Agent       
 │   │   └── Agent 7: Explanation Agent     
-│   │
-│   ├── Utility Functions
-│   │   ├── Location utilities             # LOCATION_MAPPING, normalize_location()
-│   │   ├── Price utilities                # _safe_money(), _format_price()
-│   │   └── Data builders                  # _build_strategy_summary(), _build_component_matrix()
 │   │ 
-│   └── Gradio UI                          # Gardio dashboard launcher
- 
+│   └── Gradio UI                                     # Gardio dashboard launcher
+│
 ├── data/ (live from Google Sheets)
 │   └── PRODUCT_CATALOG.csv      
 │   ├── DELIVERY_LOCATIONS.csv
 │   ├── NEXT_BUY_HISTORY.csv
 │   └── ADDON_CATALOG.csv
 │
-├── requirements.txt              # List of required Python libraries and dependencies
-└── README.md                     # Project documentation and setup guide
+├── utils/                                            # Shared utility functions
+├── requirements.txt                                  # List of required Python libraries and dependencies
+└── README.md                                         # Project documentation and setup guide
 ```
 
 ---
