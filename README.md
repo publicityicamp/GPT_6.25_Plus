@@ -148,16 +148,22 @@ Suggests better alternatives and future upgrade paths to help users improve perf
 ## Agent Architecture
 **1. Requirement Agent**  
 Extracts customer requirements such as budget, delivery location, target usage, and performance needs from natural language prompts.  
+
 **2. Search Agent**  
 Searches the product catalog to identify suitable and compatible PC components based on user requirements.  
+
 **3. Compatibility Agent**    
 Validates hardware compatibility including CPU sockets, RAM generation, PSU requirements and system constraints.  
+
 **4. Optimization Agent**  
 Optimizes system builds using Max Performance, Optimal Value, and Budget Saver strategies with statistical performance scoring and Pareto optimization.  
+
 **5. Next Best Buy and Value Upsell Agent**  
 Suggests upgrade paths, better-value alternatives and intelligent upsell opportunities based on customer budget behavior and performance goals.  
+
 **6. Commercial Quotation Agent**  
-Generates complete quotations including total pricing, component breakdowns and delivery-related calculations.  
+Generates complete quotations including total pricing, component breakdowns and delivery-related calculations. 
+
 **7. Explanation Agent**  
 Explains recommendation reasoning, optimization decisions compatibility checks and performance trade-offs in a user-friendly format.  
 
