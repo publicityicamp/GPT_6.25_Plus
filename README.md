@@ -56,7 +56,7 @@ Suggests better alternatives and future upgrade paths to help users improve perf
 
 | Category | Technology | Version |
 | :--- | :---: | ---: |
-| Environment | Python | 3.12.13 |
+| Environment | Python in Google Collab | 3.12.13 |
 | LLM Framework | Google Gemini API | 3.5 Flash |
 | UI Framework | Gardio | Latest |
 | Data Processing | Pandas | 2.2.2 |
@@ -143,4 +143,24 @@ jupyter notebook GPT_6_25_Plus.ipynb
 >   
 > **Part 5: Trust & Verification**
 >   
-> Run our dashboard to know more about Part 2 to Part 5.  
+> Run our dashboard to know more about Part 2 to Part 5.
+>  
+---
+## Scalability & Future Potential
+The current multi-agent architecture and optimization pipeline make the platform suitable for future real-world deployment and scalable technical sales automation. This system can be expanded with:  
+- live retailer and e-commerce API integration
+- real-time inventory and price tracking
+- cloud-based deployment
+- larger product catalog scaling
+- enterprise procurement and technical sales support systems for businesses with bulk hardware purchasing
+  
+---
+## Support & Contributions  
+We welcome contributions to help improve the Autonomous Sales Engineer. Please follow these steps to contribute:  
+1. Report Bugs & Open Issues: File an issue in the GitHub issue tracker detailing the bug behavior and replication steps.  
+2. Submit Pull Requests (PRs): Fork the repository, create a new feature branch, make your modifications, ensure all agent pipelines run without exceptions and submit a detailed pull request.
+---
+## Contact
+For questions or collaboration:  
+Team: GPT 6.25 Plus  
+APU Marathon 2026  
