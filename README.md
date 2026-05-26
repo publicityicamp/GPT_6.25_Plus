@@ -68,9 +68,9 @@ Suggests better alternatives and future upgrade paths to help users improve perf
 - Google Gemini API Key obtained from Google AI Studio  
 ### Installation and Run The Project
 **Option A: Google Colab (Recommended due to Zero Setup)**
-> 1. Open in Colab:
+> 1. Open in Colab:  
 (https://colab.research.google.com/drive/1cuiSnphHkgvd-ymwei7dHHOOVzATHcIj?usp=sharing)
-# Configuration
+> 2. Configuration
 - Click Secrets in left sidebar
 - Add secret: `GEMINI_API_KEY`
 - Insert your GEMINI API Key
