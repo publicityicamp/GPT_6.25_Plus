@@ -111,7 +111,7 @@ User Input
 System Response (30 seconds generating time)
 > **Part 1: Quotation**
 >     
->           OFFICIAL COMMERCIAL QUOTATION  
+>  OFFICIAL COMMERCIAL QUOTATION  
 > CLIENT LOCATION: Petaling Jaya  
 > ORDER DATE STAMP: 2026-05-26 03:01:20  
 >  
