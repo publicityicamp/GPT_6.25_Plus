@@ -1,5 +1,5 @@
 # Autonomous Sales Engineer by GPT 6.25 Plus
-**APU Marathon 2026 "LLM Everywhere" - Preliminary Round Submission**  
+APU Marathon 2026 "LLM Everywhere" - Preliminary Round Submission  
 
 ## Problem Statement
 Customers are usually looking for technical systems that complete, compatible, and budget-aware setups instead of individual product recommendations. Most existing recommendation systems fail to handle compatibility checking, performance optimization and delivery constraints, often leading to poor buying decisions and bad user experience.
