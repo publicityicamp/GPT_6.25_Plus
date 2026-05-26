@@ -79,16 +79,18 @@ Suggests better alternatives and future upgrade paths to help users improve perf
 &nbsp;
 ### Installation and Run The Project
 **Google Colab**
-> 1. Open in Google Colab:  
+> 1. Open in Google Colab: 
+> Click the link below to load the interactive notebook:  
 (https://colab.research.google.com/drive/1cuiSnphHkgvd-ymwei7dHHOOVzATHcIj?usp=sharing)
-> 2. Configuration  
+> 2. Configuration Secure API Access
 >   i) Click Secrets in left sidebar  
 >  ii) Add secret: `GEMINI_API_KEY`  
 > iii) Insert your GEMINI API Key  
 >  iv) Toggle "Notebook access" to ON   
-> 3. Run all cells:  
-> Runtime → Run all  
-> 4. Launch the dashboard:  
+> 3. Execute the Pipeline:  
+> Run the multi-agent system by triggering the execution cells:  
+> Go to the top menu bar and select Runtime → Run all  
+> 5. Launch the dashboard:  
 > Scroll to the bottom of the execution logs and click the generated Gradio public share link (e.g., `https://xxxx.gradio.live`).
 
 &nbsp;
