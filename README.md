@@ -5,15 +5,7 @@ An AI system that helps customers build a complete and compatible setup based on
 ## Project Structure
 ```
 Autonomous-sales-engineer/
-├── GPT_6_25_Plus.ipynb          # Full implementation and and Gardio dashboard launcher
-├── agents/
-│   ├── requirement_agent.py     
-│   ├── search_agent.py
-│   ├── compatibility_agent.py   
-│   ├── optimization_agent.py    
-│   ├── next_best_buy_and_value_upsell_agent.py
-│   ├── commercial_quotation_agent.py
-│   └── explaination_agent.py            
+├── GPT_6_25_Plus.ipynb          # Full implementation and and Gardio dashboard launcher    
 │
 ├── data/ (live from Google Sheets)
 │   └── PRODUCT_CATALOG.csv      
@@ -144,7 +136,33 @@ jupyter notebook GPT_6_25_Plus.ipynb
 > **Part 5: Trust & Verification**
 >   
 > Run our dashboard to know more about Part 2 to Part 5.
->  
+>
+
+---
+## Agent Architecture
+1. Requirement Agent  
+Extracts customer requirements such as budget, delivery location, use case, and performance needs from natural language prompts.
+2. Search Agent  
+Searches the product catalog to identify suitable and compatible PC components based on user requirements.  
+3. Compatibility Agent  
+Validates hardware compatibility including CPU sockets, RAM generation, PSU requirements and system constraints.  
+4. Optimization Agent  
+Optimizes system builds using Max Performance, Optimal Value, and Budget Saver strategies with statistical performance scoring and Pareto optimization.  
+5. Next Best Buy and Value Upsell Agent  
+Suggests upgrade paths, better-value alternatives and intelligent upsell opportunities based on customer budget behavior and performance goals.  
+6. Commercial Quotation Agent  
+Generates complete quotations including total pricing, component breakdowns and delivery-related calculations.  
+7. Explaination Agent  
+Explains recommendation reasoning, optimization decisions compatibility checks and performance trade-offs in a user-friendly format.  
+
+---
+## Recommendation Strategies
+| Strategy | Description | 
+| :--- | :---: | 
+| Max Performance | Highest possible performance within budget | 
+| Optimal Value | Best performance-to-cost ratio | 
+| Budget Saver | Lowest possible cost while remaining functional | 
+	
 ---
 ## Scalability & Future Potential
 The current multi-agent architecture and optimization pipeline make the platform suitable for future real-world deployment and scalable technical sales automation. This system can be expanded with:  
