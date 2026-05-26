@@ -1,0 +1,31 @@
+case_id,trigger_category,trigger_item,use_case,budget_range,selected_build_type,next_product,next_category,next_price,accepted,reason
+C001,CPU,Ryzen 5 5600X,gaming,3000-5000,balanced gaming,B550M Motherboard,Motherboard,550,yes,Ryzen 5 5600X users often pair it with B550M for better AM4 upgrade support
+C002,CPU,Ryzen 5 7600,gaming,4000-6000,modern gaming,B650 Motherboard,Motherboard,700,yes,Ryzen 5 7600 requires AM5 motherboard support
+C003,CPU,Intel i5-13400,general,3000-5000,home office performance,B760 Motherboard,Motherboard,650,yes,Intel i5-13400 requires compatible LGA1700 motherboard
+C004,CPU,Ryzen 7 7800X3D,gaming,6000-9000,high-end gaming,240mm AIO,Cooler,350,yes,High-performance gaming CPU benefits from stronger cooling
+C005,GPU,GTX 1650,gaming,2000-3000,budget gaming,75Hz Monitor,External Add-on,399,yes,Budget GPU buyers often need an affordable monitor to complete setup
+C006,GPU,RTX 3060,gaming,3000-5000,mid-range gaming,144Hz Gaming Monitor,External Add-on,599,yes,RTX 3060 is suitable for high refresh rate 1080p gaming
+C007,GPU,RTX 4060,gaming,4000-6000,balanced gaming,144Hz Gaming Monitor,External Add-on,599,yes,RTX 4060 buyers commonly benefit from high refresh rate display
+C008,GPU,RTX 4070,gaming,6000-9000,high-end gaming,165Hz Gaming Monitor,External Add-on,899,yes,RTX 4070 performance is better experienced with higher refresh display
+C009,Motherboard,B450M Motherboard,gaming,2000-3000,budget gaming,16GB DDR4 RAM,RAM,250,yes,B450M buyers usually pair with DDR4 memory for budget builds
+C010,Motherboard,B550M Motherboard,gaming,3000-5000,balanced gaming,32GB DDR4 RAM,RAM,450,yes,B550M supports stronger AM4 builds and benefits from 32GB RAM upgrade
+C011,Motherboard,B650 Motherboard,gaming,4000-7000,modern gaming,32GB DDR5 RAM,RAM,450,yes,B650 buyers usually move toward DDR5 memory for future-proofing
+C012,Motherboard,B760 Motherboard,general,3000-6000,intel productivity build,16GB DDR5 RAM,RAM,280,yes,B760 users commonly pair with DDR5 RAM for modern Intel builds
+C013,RAM,16GB DDR4 RAM,gaming,3000-5000,balanced gaming,32GB DDR4 RAM,RAM,450,yes,Many 16GB users upgrade to 32GB for multitasking and newer games
+C014,RAM,32GB DDR4 RAM,workstation,4000-6000,editing workstation,1TB NVMe SSD,Storage,280,yes,32GB RAM users often need faster storage for productivity workloads
+C015,RAM,16GB DDR5 RAM,gaming,4000-6000,modern gaming,32GB DDR5 RAM,RAM,450,yes,16GB DDR5 users often upgrade to 32GB for long-term performance
+C016,RAM,32GB DDR5 RAM,workstation,6000-9000,professional workstation,2TB NVMe SSD,Storage,480,yes,High-memory workstation users often require larger fast storage
+C017,Storage,512GB NVMe SSD,gaming,2000-4000,budget gaming,1TB NVMe SSD,Storage,280,yes,512GB fills quickly with modern games so 1TB upgrade is commonly recommended
+C018,Storage,1TB NVMe SSD,gaming,3000-6000,balanced gaming,2TB NVMe SSD,Storage,480,yes,Gaming users often upgrade to 2TB for large game libraries
+C019,Storage,1TB SATA SSD,general,2000-4000,home office build,1TB NVMe SSD,Storage,280,yes,NVMe upgrade provides faster boot and loading performance than SATA
+C020,Storage,2TB NVMe SSD,workstation,6000-9000,professional workstation,External Backup Drive,External Add-on,399,yes,Large SSD users often need backup storage for important files
+C021,PSU,450W PSU,gaming,2000-3000,budget gaming,550W PSU,PSU,250,yes,450W may limit future upgrades so 550W is a safer step-up option
+C022,PSU,550W PSU,gaming,3000-5000,mid-range gaming,650W PSU,PSU,350,yes,550W users with mid-range GPU often upgrade to 650W for stability
+C023,PSU,650W PSU,gaming,4000-7000,balanced gaming,750W PSU,PSU,300,yes,650W users often upgrade to 750W for future GPU upgrade flexibility
+C024,PSU,750W PSU,gaming,6000-9000,high-end gaming,UPS Power Backup,External Add-on,349,yes,High-wattage builds should be protected by UPS backup
+C025,Case,Budget mATX Case,gaming,2000-3000,budget gaming,Air Cooler,Cooler,120,yes,Budget cases benefit from better cooling support
+C026,Case,Mid Tower Case,gaming,3000-6000,balanced gaming,Additional Case Fans,External Add-on,89,yes,Mid tower builds often improve airflow with extra fans
+C027,Case,Premium RGB Case,gaming,5000-9000,high-end gaming,240mm AIO,Cooler,350,yes,Premium RGB builds commonly pair with liquid cooling for performance and aesthetics
+C028,Cooler,Stock Cooler,gaming,2000-4000,budget gaming,Air Cooler,Cooler,120,yes,Stock cooler users often upgrade to air cooler for lower temperature and noise
+C029,Cooler,Air Cooler,gaming,4000-7000,balanced gaming,Premium Thermal Paste,External Add-on,39,yes,Air cooler buyers may add thermal paste for better heat transfer
+C030,Cooler,240mm AIO,gaming,6000-9000,high-end gaming,Premium RGB Case,Case,450,yes,AIO users often choose premium cases for radiator and airflow support
