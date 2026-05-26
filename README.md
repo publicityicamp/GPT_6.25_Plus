@@ -70,14 +70,14 @@ Suggests better alternatives and future upgrade paths to help users improve perf
 **Option A: Google Colab (Recommended due to Zero Setup)**
 > 1. Open in Google Colab:  
 (https://colab.research.google.com/drive/1cuiSnphHkgvd-ymwei7dHHOOVzATHcIj?usp=sharing)
-  2. Configuration
-- Click Secrets in left sidebar
-- Add secret: `GEMINI_API_KEY`
-- Insert your GEMINI API Key
-- Toggle "Notebook access" to ON  
-  3. Run all cells:  
-  Runtime → Run all  
-  4. Access the dashboard:
+> 2. Configuration
+> - Click Secrets in left sidebar
+> - Add secret: `GEMINI_API_KEY`
+> - Insert your GEMINI API Key
+> - Toggle "Notebook access" to ON  
+> 3. Run all cells:
+> Runtime → Run all  
+> 4. Access the dashboard:
 > Click the Gradio public link (`https://xxxx.gradio.live`) after running  
 
 **Option B: Local Machine**
