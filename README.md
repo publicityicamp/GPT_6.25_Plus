@@ -146,7 +146,7 @@ jupyter notebook GPT_6_25_Plus.ipynb
 ---
 ## Agent Architecture
 **1. Requirement Agent**  
-Extracts customer requirements such as budget, delivery location, use case, and performance needs from natural language prompts.  
+Extracts customer requirements such as budget, delivery location, target usage, and performance needs from natural language prompts.  
 **2. Search Agent**  
 Searches the product catalog to identify suitable and compatible PC components based on user requirements.  
 **3. Compatibility Agent**    
