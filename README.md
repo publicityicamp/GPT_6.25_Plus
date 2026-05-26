@@ -1,11 +1,16 @@
 # Autonomous Sales Engineer by GPT 6.25 Plus
 **APU Marathon 2026 "LLM Everywhere" - Preliminary Round Submission**  
-An AI system that helps customers build a complete and compatible setup based on their needs, budget and delivery location. Instead of recommending only one product, the system acts like a real technical sales engineer. It understands customer requests, selects suitable components, checks compatibility, optimizes performance and cost, and generates a full quotation automatically in Gardio Dashboard.
+
+## Problem Statement
+Customers are usually looking for technical systems that complete, compatible, and budget-aware setups instead of individual product recommendations. Most existing recommendation systems fail to handle compatibility checking, performance optimization and delivery constraints, often leading to poor buying decisions and bad user experience.
+  
+## Why Our Solution Stands Out?
+Unlike traditional recommendation systems that only suggest products individually, our AI system helps customers build a complete and compatible setup based on their needs, budget and delivery location. The system acts like a real technical sales engineer. It understands customer requests, selects suitable components, checks compatibility, optimizes performance and cost, and generates a full quotation automatically in Gardio Dashboard.
 
 ## Project Structure
 ```
 Autonomous-sales-engineer/
-├── GPT_6_25_Plus.ipynb          # Full implementation and and Gardio dashboard launcher    
+├── GPT_6_25_Plus.ipynb          # Full implementation and Gardio dashboard launcher    
 │
 ├── data/ (live from Google Sheets)
 │   └── PRODUCT_CATALOG.csv      
@@ -23,7 +28,7 @@ Autonomous-sales-engineer/
 Understand customer requests written in normal language by extracting important details such as budget, delivery location, and intended use automatically.
 
 **Multi-Agent AI Architecture**:  
-Use multiple AI agents that work together like a real sales team where ach agent handles a specific task such as product matching, optimization or compatibility checking.
+Use multiple AI agents that work together like a real sales team where each agent handles a specific task such as product matching, optimization or compatibility checking.
 
 **Deterministic Compatibility Layer**:  
 Check whether all selected components can work together properly by validating CPU sockets, RAM generation, PSU power requirements and other hardware constraints.
@@ -48,7 +53,7 @@ Suggests better alternatives and future upgrade paths to help users improve perf
 
 | Category | Technology | Version |
 | :--- | :---: | ---: |
-| Environment | Python in Google Collab | 3.12.13 |
+| Environment | Python in Google Colab | 3.12.13 |
 | LLM Framework | Google Gemini API | 3.5 Flash |
 | UI Framework | Gardio | Latest |
 | Data Processing | Pandas | 2.2.2 |
@@ -56,7 +61,7 @@ Suggests better alternatives and future upgrade paths to help users improve perf
 ---
 ## Getting Started
 ### Prerequisites
-- Python 3.10+ installed on your system or Google Collab
+- Python 3.10+ installed on your system or Google Colab
 - Google Gemini API Key obtained from Google AI Studio
   
 &nbsp;
@@ -100,7 +105,7 @@ jupyter notebook GPT_6_25_Plus.ipynb
 > Strategy Focus:  
 > Optimal Value
 
-#### System Response (30 seconds generating time)
+#### System Response 
 > **Part 1: Quotation**
 >     
 >  OFFICIAL COMMERCIAL QUOTATION  
@@ -152,7 +157,7 @@ Optimizes system builds using Max Performance, Optimal Value, and Budget Saver s
 Suggests upgrade paths, better-value alternatives and intelligent upsell opportunities based on customer budget behavior and performance goals.  
 **6. Commercial Quotation Agent** 
 Generates complete quotations including total pricing, component breakdowns and delivery-related calculations.  
-**7. Explaination Agent** 
+**7. Explanation Agent** 
 Explains recommendation reasoning, optimization decisions compatibility checks and performance trade-offs in a user-friendly format.  
 
 ---
