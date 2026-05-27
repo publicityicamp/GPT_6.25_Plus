@@ -107,7 +107,7 @@ Suggests better alternatives and future upgrade paths to help users improve perf
 > Optimal Value
 
 #### System Response 
-> **Part 1: Quotation**
+> **Part 1: Price Proposal / Quotation**
 >     
 >  OFFICIAL COMMERCIAL QUOTATION  
 > CLIENT LOCATION: Petaling Jaya  
